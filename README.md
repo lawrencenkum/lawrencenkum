@@ -1,10 +1,7 @@
-<div align="center">
+<div align="Left">
 
 # LAWRENCE NKUM
 
-**Cloud Infrastructure Engineer &nbsp;|&nbsp; DevOps Engineer &nbsp;|&nbsp; Linux & Network Administration**
-
----
 
 ### Connect with Me
 
