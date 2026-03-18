@@ -47,10 +47,17 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
 
 ## Certifications
 
+## Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-
 ---
 
 ## Projects
