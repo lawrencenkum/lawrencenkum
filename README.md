@@ -1,6 +1,6 @@
 <div align="Left">
 
-# LAWRENCE NKUM
+# Lawrence Nkum
 
 
 ### Connect with Me
