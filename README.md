@@ -59,7 +59,6 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
 > Working through a structured, industry-aligned Python curriculum covering core programming fundamentals through to advanced topics including variables, data types, OOP, algorithms, data structures, error handling, and dynamic programming. Each module is reinforced with hands-on workshops, labs, and certification projects, culminating in a Python Certification Exam.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge"/>
 </p>
 
@@ -69,9 +68,5 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
 > A production-grade, three-tier web application fully deployed on Amazon EKS (Elastic Kubernetes Service). Covers frontend, backend, and database tiers with full Kubernetes orchestration on AWS.
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge"/>
 </p>
