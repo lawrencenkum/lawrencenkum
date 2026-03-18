@@ -1,32 +1,30 @@
-<h1 align="center">Hi, I'm Lawrence Nkum 👋</h1>
-<h3 align="center">Cloud Infrastructure & DevOps Engineer | 1x AWS Certified | Linux & Network Administration</h3>
+<div align="center">
 
-<p align="center">
-  <em>A Paragon of Excellence — Intensity + Consistency</em>
-</p>
+<h1 style="font-size:3em; letter-spacing:0.08em;">LAWRENCE NKUM</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/lawrence-nkum-554303247">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/lawrencenkum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<p><strong>Cloud Infrastructure Engineer &nbsp;|&nbsp; DevOps Engineer &nbsp;|&nbsp; Linux & Network Administration</strong></p>
 
----
+<p>Paderborn University, Germany &nbsp;&nbsp;·&nbsp;&nbsp; Paderborn, North Rhine-Westphalia</p>
 
-## 👨🏾‍💻 About Me
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/lawrence-nkum-554303247">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/lawrencenkum">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- ☁️ Cloud Infrastructure & DevOps Engineer in training
-- 🌱 Currently building real-world projects in AWS, Docker & Kubernetes
-- 🔐 Passionate about Linux, Networking & Cloud Security
-- 📍 Based in Paderborn, North Rhine-Westphalia, Germany
-- 📫 Reach me on LinkedIn
+</div>
 
 ---
 
-## 🛠️ Core Competencies
+## About Me
+
+Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, containerization, and Linux systems. Currently studying at Paderborn University while building production-grade projects that demonstrate real-world infrastructure and deployment skills. Driven by intensity and consistency in everything I build.
+
+---
+
+## Core Competencies
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -37,32 +35,50 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
+
+| Skill | Area |
+|---|---|
+| AWS | Cloud Infrastructure, EC2, S3, VPC, IAM |
+| Python | Scripting, Automation, Backend |
+| Docker | Containerization, Image Building, Compose |
+| Kubernetes | Orchestration, Deployments, Services |
+| PostgreSQL | Relational Databases, Administration |
+| Linux | System Administration, Shell Scripting |
+| Networking | TCP/IP, DNS, Routing, Firewalls |
+| GitHub Actions | CI/CD Pipelines, Workflow Automation |
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects & Currently Building
+## Projects
 
-| Project | Description | Tech Stack | Status |
-|--------|-------------|------------|--------|
-| 🔧 Coming Soon | Cloud Infrastructure Project | AWS, Terraform | 🟡 In Progress |
-| 🐳 Coming Soon | Containerization Project | Docker, Kubernetes | 🟡 In Progress |
-| ⚙️ Coming Soon | CI/CD Pipeline | GitHub Actions | 🟡 In Progress |
+### Python Scripting & Automation
+> Practical Python scripts targeting cloud operations, system automation, and infrastructure tooling.
 
-> ⭐ *Check pinned repositories below for featured projects as they are completed*
+- Language: Python
+- Focus: Real-world automation use cases
+- Status: **In Progress**
 
 ---
 
-## 📊 GitHub Stats
+### End-to-End EKS 3-Tier Web Application
+> A production-grade, three-tier web application fully deployed on Amazon EKS (Elastic Kubernetes Service). Covers frontend, backend, and database tiers with full Kubernetes orchestration on AWS.
+
+- Stack: AWS EKS, Kubernetes, Docker, PostgreSQL
+- Architecture: 3-Tier (Presentation / Application / Data)
+- Status: **In Progress**
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lawrencenkum&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
@@ -71,6 +87,6 @@
 
 ---
 
-<p align="center">
-  <em>"Intensity + Consistency — building one project at a time 🚀"</em>
-</p>
+<div align="center">
+<p><em>A Paragon of Excellence &nbsp;·&nbsp; Intensity + Consistency</em></p>
+</div>
