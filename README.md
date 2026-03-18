@@ -4,13 +4,6 @@
 
 **Cloud Infrastructure Engineer &nbsp;|&nbsp; DevOps Engineer &nbsp;|&nbsp; Linux & Network Administration**
 
-<table>
-<tr>
-<td align="center">Paderborn University</td>
-<td align="center">Paderborn, North Rhine-Westphalia, Germany</td>
-</tr>
-</table>
-
 ---
 
 ### Connect with Me
@@ -63,7 +56,7 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
 ## Projects
 
 ### Python Development — Scripting & Automation
-> Working through a structured, industry-aligned Python curriculum covering core programming fundamentals through to advanced topics — including variables, data types, OOP, algorithms, data structures, error handling, and dynamic programming. Each module is reinforced with hands-on workshops, labs, and certification projects, culminating in a Python Certification Exam.
+> Working through a structured, industry-aligned Python curriculum covering core programming fundamentals through to advanced topics including variables, data types, OOP, algorithms, data structures, error handling, and dynamic programming. Each module is reinforced with hands-on workshops, labs, and certification projects, culminating in a Python Certification Exam.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
