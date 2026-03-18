@@ -27,6 +27,10 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
 ## Core Competencies
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,python,docker,kubernetes,postgres,linux,github,githubactions&perline=8" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -36,6 +40,7 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
+
 
 | Skill | Area |
 |---|---|
