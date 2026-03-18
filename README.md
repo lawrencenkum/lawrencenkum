@@ -8,7 +8,7 @@
 
 ### Connect with Me
 
-<a href="https://www.linkedin.com/in/lawrence-nkum">
+<a href="https://www.linkedin.com/in/lawrence-nkum-554303247">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
