@@ -55,10 +55,6 @@ Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, contai
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
----
 
 ## Projects
 
