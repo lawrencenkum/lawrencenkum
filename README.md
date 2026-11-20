@@ -1,4 +1,4 @@
-# Hi, I'm Lawrence Nkum 👋
+# Lawrence Nkum
 
 **Junior DevOps & Cloud Engineer** · Paderborn, Germany · AWS Certified Solutions Architect – Associate · HashiCorp Certified Terraform Associate
 
@@ -9,7 +9,7 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 <a href="https://www.credly.com/badges/1b352174-3c62-488a-a3d8-9f61832317cd"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="90"/></a>
 <a href="https://www.credly.com/badges/6149ba22-6934-4a39-a995-1f976fb87768"><img src="https://images.credly.com/size/110x110/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="90"/></a>
@@ -19,7 +19,7 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 **GitOps CI/CD Pipeline for Microservices on Amazon EKS**
 `AWS EKS` `Terraform` `GitHub Actions` `Argo CD` `Prometheus`
@@ -39,7 +39,7 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 | Area | Tools |
 |---|---|
@@ -53,4 +53,5 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 
 ---
 
-📍 Open to Junior DevOps, Cloud and Platform Engineering roles in Germany · 🗣️ English (native) · German (B1, studying towards B2)
+**Open to** Junior DevOps, Cloud and Platform Engineering roles in Germany  
+**Languages:** English (native) · German (B1, studying towards B2)
