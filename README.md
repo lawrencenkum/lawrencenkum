@@ -1,70 +1,56 @@
-<div align="Left">
+# Hi, I'm Lawrence Nkum 👋
 
-# Lawrence Nkum
+**Junior DevOps & Cloud Engineer** · Paderborn, Germany · AWS Certified Solutions Architect – Associate · HashiCorp Certified Terraform Associate
 
+I build secure, automated delivery on AWS: Terraform-provisioned infrastructure, GitHub Actions CI/CD, GitOps with Argo CD on Amazon EKS, and software supply-chain security with Trivy, Syft, Cosign and Kyverno.
 
-### Connect with Me
-
-<a href="https://www.linkedin.com/in/lawrence-nkum-554303247">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/lawrencenkum">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lawrence_Nkum-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-nkum-554303247/)
+[![Email](https://img.shields.io/badge/Email-lawrencenkum67%40gmail.com-1D5C63?style=flat&logo=gmail&logoColor=white)](mailto:lawrencenkum67@gmail.com)
 
 ---
 
-## About Me
+### 🏆 Certifications
 
-Cloud Infrastructure and DevOps Engineer with hands-on experience in AWS, containerization, and Linux systems. Currently studying at Paderborn University while building production-grade projects that demonstrate real-world infrastructure and deployment skills. Driven by intensity and consistency in everything I build.
+<a href="https://www.credly.com/badges/1b352174-3c62-488a-a3d8-9f61832317cd"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="90"/></a>
+<a href="https://www.credly.com/badges/6149ba22-6934-4a39-a995-1f976fb87768"><img src="https://images.credly.com/size/110x110/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="90"/></a>
+<a href="https://www.credly.com/badges/fc1048e2-39cd-4e7c-9039-65a7859614db/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90"/></a>
 
----
-
-## Core Competencies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,docker,kubernetes,postgres,linux,github,githubactions&perline=8&size=48" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+*Click a badge to verify it on Credly.*
 
 ---
 
-## Certifications
+### 🚀 Featured projects
 
-<p align="left">
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
-  </a>
-</p>
+**GitOps CI/CD Pipeline for Microservices on Amazon EKS**
+`AWS EKS` `Terraform` `GitHub Actions` `Argo CD` `Prometheus`
+- Codified an Amazon EKS environment in Terraform across **20+ AWS resources**, rebuilt consistently in **under 15 minutes**
+- Automated deployment for **5 microservices** with GitHub Actions and Argo CD, cutting deployment time from **30 to under 5 minutes**
+- Git as the release source of truth: every change is versioned and reversible with a single commit
 
+**DevSecOps Pipeline with Signed Images, SBOM and Admission Policy**
+`GitHub Actions` `Trivy` `Syft` `Cosign` `Harbor` `Kyverno`
+- Trivy scanning, Syft SBOM generation and Cosign signing in every build, blocking **6 critical and high-severity CVEs** before release
+- Kyverno admission policies reject unsigned images at the cluster gate, so tampered artefacts never run
 
-## Projects
-
-### Python Development — Scripting & Automation
-> Working through a structured, industry-aligned Python curriculum covering core programming fundamentals through to advanced topics including variables, data types, OOP, algorithms, data structures, error handling, and dynamic programming. Each module is reinforced with hands-on workshops, labs, and certification projects, culminating in a Python Certification Exam.
-
-<p>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge"/>
-</p>
+**Kubernetes Policy as Code and Runtime Threat Detection**
+`Kubernetes` `Kyverno` `Trivy Operator` `Falco`
+- Enforced **10+ Kyverno policies** and scanned live workloads with Trivy Operator, remediating **10+ misconfigurations**
+- Detected **5 simulated container and host attacks** in real time with Falco
 
 ---
 
-### End-to-End EKS 3-Tier Web Application
-> A production-grade, three-tier web application fully deployed on Amazon EKS (Elastic Kubernetes Service). Covers frontend, backend, and database tiers with full Kubernetes orchestration on AWS.
+### 🛠️ Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge"/>
-</p>
+| Area | Tools |
+|---|---|
+| Cloud & IaC | AWS (EC2, S3, IAM, VPC, EKS, RDS, Lambda) · Terraform |
+| CI/CD & GitOps | Git · GitHub Actions · Argo CD |
+| Containers | Docker · Docker Compose · Kubernetes · Helm |
+| Networking | TCP/IP · DNS · HTTP/HTTPS · SSH · WAF · DDoS protection |
+| DevSecOps | Trivy · Syft · Cosign · Harbor · Kyverno · Falco · SonarQube |
+| Observability | Prometheus · Grafana · Amazon CloudWatch |
+| Linux & scripting | Linux (Ubuntu) · Bash · Python |
+
+---
+
+📍 Open to Junior DevOps, Cloud and Platform Engineering roles in Germany · 🗣️ English (native) · German (B1, studying towards B2)
