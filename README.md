@@ -15,31 +15,31 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 <a href="https://www.credly.com/badges/6149ba22-6934-4a39-a995-1f976fb87768"><img src="https://images.credly.com/size/110x110/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" alt="HashiCorp Certified: Terraform Associate (004)" width="90"/></a>
 <a href="https://www.credly.com/badges/fc1048e2-39cd-4e7c-9039-65a7859614db/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90"/></a>
 
-*Click a badge to verify it on Credly.*
+*Select a badge to verify the credential on Credly.*
 
 ---
 
-### Featured projects
+### Featured Projects
 
-**GitOps CI/CD Pipeline for Microservices on Amazon EKS**
+**GitOps CI/CD Pipeline for Microservices on Amazon EKS**  
 `AWS EKS` `Terraform` `GitHub Actions` `Argo CD` `Prometheus`
 - Codified an Amazon EKS environment in Terraform across **20+ AWS resources**, rebuilt consistently in **under 15 minutes**
 - Automated deployment for **5 microservices** with GitHub Actions and Argo CD, cutting deployment time from **30 to under 5 minutes**
 - Git as the release source of truth: every change is versioned and reversible with a single commit
 
-**DevSecOps Pipeline with Signed Images, SBOM and Admission Policy**
+**DevSecOps Pipeline with Signed Images, SBOM and Admission Policy**  
 `GitHub Actions` `Trivy` `Syft` `Cosign` `Harbor` `Kyverno`
 - Trivy scanning, Syft SBOM generation and Cosign signing in every build, blocking **6 critical and high-severity CVEs** before release
 - Kyverno admission policies reject unsigned images at the cluster gate, so tampered artefacts never run
 
-**Kubernetes Policy as Code and Runtime Threat Detection**
+**Kubernetes Policy as Code and Runtime Threat Detection**  
 `Kubernetes` `Kyverno` `Trivy Operator` `Falco`
 - Enforced **10+ Kyverno policies** and scanned live workloads with Trivy Operator, remediating **10+ misconfigurations**
 - Detected **5 simulated container and host attacks** in real time with Falco
 
 ---
 
-### Tech stack
+### Technical Skills
 
 | Area | Tools |
 |---|---|
@@ -53,5 +53,5 @@ I build secure, automated delivery on AWS: Terraform-provisioned infrastructure,
 
 ---
 
-**Open to** Junior DevOps, Cloud and Platform Engineering roles in Germany  
+**Open to:** Junior DevOps, Cloud and Platform Engineering roles in Germany  
 **Languages:** English (native) · German (B1, studying towards B2)
