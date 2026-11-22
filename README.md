@@ -1,4 +1,7 @@
-# Lawrence Nkum
+<p align="center">
+  <img src="./assets/header.svg" width="100%"
+       alt="Lawrence Nkum — Junior DevOps & Cloud Engineer · Paderborn, Germany">
+</p>
 
 **Junior DevOps & Cloud Engineer** · Paderborn, Germany · AWS Certified Solutions Architect – Associate · HashiCorp Certified Terraform Associate
 
