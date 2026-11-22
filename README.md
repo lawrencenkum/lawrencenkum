@@ -3,7 +3,6 @@
        alt="Lawrence Nkum — Junior DevOps & Cloud Engineer · Paderborn, Germany">
 </p>
 
-**Junior DevOps & Cloud Engineer** · Paderborn, Germany · AWS Certified Solutions Architect – Associate · HashiCorp Certified Terraform Associate
 
 I build secure, automated delivery on AWS: Terraform-provisioned infrastructure, GitHub Actions CI/CD, GitOps with Argo CD on Amazon EKS, and software supply-chain security with Trivy, Syft, Cosign and Kyverno.
 
